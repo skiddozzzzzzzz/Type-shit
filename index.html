@@ -3,45 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kayflock777 dox</title>
+  <title>Text from File</title>
   <style>
     body {
       background-color: #111;
-      color: #00ff88; /* Neon green text */
+      color: #00ff88; /* neon green */
       font-family: monospace;
       font-size: 1.3em;
       padding: 20px;
-      white-space: pre-wrap;
+      white-space: pre-wrap; /* keeps line breaks from text.txt */
     }
   </style>
 </head>
 <body>
-  <div id="output"></div>
+  <div id="output">Loading text...</div>
 
   <script>
-    async function typeText() {
-      try {
-        const response = await fetch("text.txt"); // load text file
-        const text = await response.text();
-
-        const output = document.getElementById("output");
-        let i = 0;
-
-        function type() {
-          if (i < text.length) {
-            output.textContent += text.charAt(i);
-            i++;
-            setTimeout(type, 40); // typing speed (ms per char)
-          }
-        }
-
-        type();
-      } catch (err) {
-        console.error("Error loading text.txt:", err);
-      }
-    }
-
-    typeText();
+    fetch("text.txt")
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById("output").textContent = data;
+      })
+      .catch(error => {
+        document.getElementById("output").textContent = "Error loading text.txt";
+        console.error(error);
+      });
   </script>
 </body>
 </html>
