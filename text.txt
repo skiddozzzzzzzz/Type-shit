@@ -1,0 +1,94 @@
+========================================
+       
+██╗░░██╗░█████╗░██╗░░░██╗███████╗██╗░░░░░░█████╗░░█████╗░██╗░░██╗███████╗███████╗███████╗  ██████╗░░█████╗░██╗░░██╗
+██║░██╔╝██╔══██╗╚██╗░██╔╝██╔════╝██║░░░░░██╔══██╗██╔══██╗██║░██╔╝╚════██║╚════██║╚════██║  ██╔══██╗██╔══██╗╚██╗██╔╝
+█████═╝░███████║░╚████╔╝░█████╗░░██║░░░░░██║░░██║██║░░╚═╝█████═╝░░░░░██╔╝░░░░██╔╝░░░░██╔╝  ██║░░██║██║░░██║░╚███╔╝░
+██╔═██╗░██╔══██║░░╚██╔╝░░██╔══╝░░██║░░░░░██║░░██║██║░░██╗██╔═██╗░░░░██╔╝░░░░██╔╝░░░░██╔╝░  ██║░░██║██║░░██║░██╔██╗░
+██║░╚██╗██║░░██║░░░██║░░░██║░░░░░███████╗╚█████╔╝╚█████╔╝██║░╚██╗░░██╔╝░░░░██╔╝░░░░██╔╝░░  ██████╔╝╚█████╔╝██╔╝╚██╗
+╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░╚══════╝░╚════╝░░╚════╝░╚═╝░░╚═╝░░╚═╝░░░░░╚═╝░░░░░╚═╝░░░  ╚═════╝░░╚════╝░╚═╝░░╚═╝
+========================================
+
+--- IP INFORMATION ---
+IP Address: 95.159.97.20
+ASN: AS51018
+AS Name: AS51018 Shabaka Sfn Al-Haditha for General Trading & Information Technology LTD.
+Organization: AS51018 Shabaka Sfn Al-Haditha for General Trading & Information Technology LTD.
+ISP: Gorannet-B1
+
+--- ADDRESS INFORMATION ---
+Address: Kani Askan, Sulaimani, Bakrajo District, Sulaimani District, Kurdistan Region, 46001, Iraq
+Neighbourhood: Ascan Mineral
+City: Sulaimani
+Postal Code: 46001
+Country: Iraq
+
+--- LOCATION & NETWORK ---
+Country Code (ISO2): IQ
+Country Code (ISO3): IRQ
+Capital City: Baghdad
+Country TLD: .iq
+Continent: AS
+Region/State: Sulaymaniyah (SU)
+City: As Sulaymānīyah
+Coordinates: 35.5641, 45.4326
+Timezone: Asia/Baghdad (UTC+0300)
+Currency: IQD - Dinar
+Languages: ar-IQ,ku,hy
+Mobile Network: No
+Proxy Detected: No
+Hosting/Datacenter: No
+
+--- CONNECTION INFORMATION ---
+IP Version: IPv4
+Connection Type: Remote Network
+Same Network: No (External)
+Connection Status: Active
+
+--- CLIENT INFORMATION ---
+Browser: Chrome 138.0.0
+Operating System: Mobile
+Device: Iphone
+Device Type: Mobile
+Is Bot: No
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+
+--- OPEN PORTS ---
+No open ports found on common ports.
+
+-- WHOIS INFORMATION --
+inetnum:        95.159.80.0 - 95.159.127.255
+netname:        SSAH_2_CUSTOMERS
+descr:          LTE
+country:        IQ
+admin-c:        GI2493-RIPE
+tech-c:         GI2493-RIPE
+status:         ASSIGNED PA
+mnt-by:         GNETISP-MNT
+created:        2018-01-02T11:35:19Z
+last-modified:  2025-05-15T13:51:59Z
+source:         RIPE
+
+role:           SSH Ripe DBA
+address:        Floor 2, Faruk Holding, Salim St.
+address:        Sulaimaniyah, Iraq
+abuse-mailbox:  coreadmin@sevennet.net
+nic-hdl:        GI2493-RIPE
+admin-c:        GI2492-RIPE
+admin-c:        RDM394-RIPE
+tech-c:         RDM394-RIPE
+mnt-by:         GNETISP-MNT
+created:        2015-07-02T09:52:02Z
+last-modified:  2025-05-15T13:35:44Z
+source:         RIPE # Filtered
+
+% Information related to &#39;95.159.97.0/24AS51018&#39;
+
+route:          95.159.97.0/24
+origin:         AS51018
+mnt-by:         SSAH-MNT
+created:        2025-07-27T06:43:21Z
+last-modified:  2025-07-27T06:43:21Z
+source:         RIPE
+
+Scanned at: 2025-11-11 07:49:14
+========================================
